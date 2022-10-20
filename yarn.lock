@@ -606,10 +606,10 @@ hexo-server@^2.0.0:
     open "^7.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-stellar@^1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/hexo-theme-stellar/-/hexo-theme-stellar-1.5.1.tgz#4461168aba58571c94e24e87b802b7a1a90971ed"
-  integrity sha512-F4kIy7Vo/DXYNC0l20A5dubHgKnAzvDIzWLf+uGLCgikDRuKWMcPUbPbcCKaycoA1QxWtvthqf6eWfXBciVTOQ==
+hexo-theme-stellar@^1.11.0:
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/hexo-theme-stellar/-/hexo-theme-stellar-1.11.0.tgz#aa5f1f8272735dbaa42885362becfe0c4b7ae3cc"
+  integrity sha512-aSYoCQSwdbDQBzc4oSEwiQLKMXO3I2+DVbQEvWthSUt9cnczMELdyDWdnuLCYOUb//sFw7kBOCn0d2+q8m9J1g==
   dependencies:
     hexo-renderer-ejs "^1.0.0"
     hexo-renderer-stylus "^2.0.1"
